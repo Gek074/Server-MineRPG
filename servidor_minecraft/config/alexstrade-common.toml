@@ -1,0 +1,129 @@
+#Enable trade for cleric_soul_heart
+cleric_soul_heart_enabled = true
+#Buy amount for cleric_soul_heart
+#Range: 1 ~ 64
+cleric_soul_heart_buy = 64
+#Sell amount for cleric_soul_heart
+#Range: 1 ~ 64
+cleric_soul_heart_sell = 1
+#Enable trade for butcher_lobster_tail
+butcher_lobster_tail_enabled = true
+#Buy amount for butcher_lobster_tail
+#Range: 1 ~ 64
+butcher_lobster_tail_buy = 8
+#Sell amount for butcher_lobster_tail
+#Range: 1 ~ 64
+butcher_lobster_tail_sell = 1
+#Enable trade for butcher_moose_ribs
+butcher_moose_ribs_enabled = true
+#Buy amount for butcher_moose_ribs
+#Range: 1 ~ 64
+butcher_moose_ribs_buy = 15
+#Sell amount for butcher_moose_ribs
+#Range: 1 ~ 64
+butcher_moose_ribs_sell = 1
+#Enable trade for butcher_kangaroo_meat
+butcher_kangaroo_meat_enabled = true
+#Buy amount for butcher_kangaroo_meat
+#Range: 1 ~ 64
+butcher_kangaroo_meat_buy = 12
+#Sell amount for butcher_kangaroo_meat
+#Range: 1 ~ 64
+butcher_kangaroo_meat_sell = 1
+#Enable trade for butcher_raw_catfish
+butcher_raw_catfish_enabled = true
+#Buy amount for butcher_raw_catfish
+#Range: 1 ~ 64
+butcher_raw_catfish_buy = 17
+#Sell amount for butcher_raw_catfish
+#Range: 1 ~ 64
+butcher_raw_catfish_sell = 1
+#Enable trade for butcher_cooked_lobster_tail
+butcher_cooked_lobster_tail_enabled = true
+#Buy amount for butcher_cooked_lobster_tail
+#Range: 1 ~ 64
+butcher_cooked_lobster_tail_buy = 1
+#Sell amount for butcher_cooked_lobster_tail
+#Range: 1 ~ 64
+butcher_cooked_lobster_tail_sell = 3
+#Enable trade for butcher_cooked_moose_ribs
+butcher_cooked_moose_ribs_enabled = true
+#Buy amount for butcher_cooked_moose_ribs
+#Range: 1 ~ 64
+butcher_cooked_moose_ribs_buy = 1
+#Sell amount for butcher_cooked_moose_ribs
+#Range: 1 ~ 64
+butcher_cooked_moose_ribs_sell = 7
+#Enable trade for butcher_cooked_kangaroo_meat
+butcher_cooked_kangaroo_meat_enabled = true
+#Buy amount for butcher_cooked_kangaroo_meat
+#Range: 1 ~ 64
+butcher_cooked_kangaroo_meat_buy = 1
+#Sell amount for butcher_cooked_kangaroo_meat
+#Range: 1 ~ 64
+butcher_cooked_kangaroo_meat_sell = 11
+#Enable trade for butcher_cooked_catfish
+butcher_cooked_catfish_enabled = true
+#Buy amount for butcher_cooked_catfish
+#Range: 1 ~ 64
+butcher_cooked_catfish_buy = 1
+#Sell amount for butcher_cooked_catfish
+#Range: 1 ~ 64
+butcher_cooked_catfish_sell = 14
+#Enable trade for fisherman_blobfish
+fisherman_blobfish_enabled = true
+#Buy amount for fisherman_blobfish
+#Range: 1 ~ 64
+fisherman_blobfish_buy = 7
+#Sell amount for fisherman_blobfish
+#Range: 1 ~ 64
+fisherman_blobfish_sell = 1
+#Enable trade for fisherman_cosmic_cod
+fisherman_cosmic_cod_enabled = true
+#Buy amount for fisherman_cosmic_cod
+#Range: 1 ~ 64
+fisherman_cosmic_cod_buy = 5
+#Sell amount for fisherman_cosmic_cod
+#Range: 1 ~ 64
+fisherman_cosmic_cod_sell = 3
+#Enable trade for fletcher_roadrunner_feather
+fletcher_roadrunner_feather_enabled = true
+#Buy amount for fletcher_roadrunner_feather
+#Range: 1 ~ 64
+fletcher_roadrunner_feather_buy = 7
+#Sell amount for fletcher_roadrunner_feather
+#Range: 1 ~ 64
+fletcher_roadrunner_feather_sell = 14
+#Enable trade for toolsmith_froststalker_horn
+toolsmith_froststalker_horn_enabled = true
+#Buy amount for toolsmith_froststalker_horn
+#Range: 1 ~ 64
+toolsmith_froststalker_horn_buy = 7
+#Sell amount for toolsmith_froststalker_horn
+#Range: 1 ~ 64
+toolsmith_froststalker_horn_sell = 1
+#Enable trade for toolsmith_centipede_leg
+toolsmith_centipede_leg_enabled = true
+#Buy amount for toolsmith_centipede_leg
+#Range: 1 ~ 64
+toolsmith_centipede_leg_buy = 7
+#Sell amount for toolsmith_centipede_leg
+#Range: 1 ~ 64
+toolsmith_centipede_leg_sell = 1
+#Enable trade for leatherworker_bear_fur
+leatherworker_bear_fur_enabled = true
+#Buy amount for leatherworker_bear_fur
+#Range: 1 ~ 64
+leatherworker_bear_fur_buy = 8
+#Sell amount for leatherworker_bear_fur
+#Range: 1 ~ 64
+leatherworker_bear_fur_sell = 1
+#Enable trade for leatherworker_crocodile_scute
+leatherworker_crocodile_scute_enabled = true
+#Buy amount for leatherworker_crocodile_scute
+#Range: 1 ~ 64
+leatherworker_crocodile_scute_buy = 2
+#Sell amount for leatherworker_crocodile_scute
+#Range: 1 ~ 64
+leatherworker_crocodile_scute_sell = 5
+
