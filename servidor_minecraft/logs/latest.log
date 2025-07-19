@@ -5823,3 +5823,91 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Jul2025 14:23:59.571] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
 [19Jul2025 14:23:59.743] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41ad9c2f[id=<null>,name=Gek074,properties={},legacy=false] (/127.32.58.178:49273) lost connection: Disconnected
 [19Jul2025 14:26:34.137] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b43409f[id=<null>,name=Gek074,properties={},legacy=false] (/127.32.58.178:42231) lost connection: Disconnected
+[19Jul2025 14:28:25.237] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c91411c[id=<null>,name=Gek074,properties={},legacy=false] (/127.32.58.178:50837) lost connection: Disconnected
+[19Jul2025 14:29:48.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gek074[/127.32.58.178:50063] logged in with entity id 451 at (50.5, 65.0, -87.5)
+[19Jul2025 14:29:48.750] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[19Jul2025 14:29:48.763] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexmodguy/alexscaves/server/entity/living/MagnetronEntity$AttackPose
+[19Jul2025 14:29:48.767] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/Ancient_Remnant/Ancient_Remnant_Entity$AttackMode
+[19Jul2025 14:29:48.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/grottol/EntityGrottol$EnumDeathType
+[19Jul2025 14:29:48.780] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[19Jul2025 14:29:48.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[19Jul2025 14:29:48.804] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[19Jul2025 14:29:48.806] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for com.Polarice3.Goety.common.entities.ally.Doppelganger: java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/PlayerInfo for invalid dist DEDICATED_SERVER
+[19Jul2025 14:29:48.809] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/Polarice3/Goety/common/entities/ally/undead/bound/AbstractBoundIllager$BoundSpell
+[19Jul2025 14:29:48.814] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/Modern_Remnant_Entity$AttackMode
+[19Jul2025 14:29:48.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/EntityAmphithere$FlightBehavior
+[19Jul2025 14:29:48.829] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/gametechbc/traveloptics/entity/mobs/testwizard/TestWizardEntity$Phase
+[19Jul2025 14:29:48.835] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/Polarice3/Goety/common/entities/neutral/AbstractNecromancer$NecromancerSpellType
+[19Jul2025 14:29:48.844] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/The_Leviathan/The_Leviathan_Entity$AttackMode
+[19Jul2025 14:29:48.845] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/dummmmmmy/common/DummyMobType
+[19Jul2025 14:29:48.847] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/naga/EntityNaga$EnumNagaMovement
+[19Jul2025 14:29:48.850] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/Polarice3/Goety/common/entities/hostile/cultists/SpellCastingCultist$SpellType
+[19Jul2025 14:29:48.851] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/EntityMimicOctopus$MimicState
+[19Jul2025 14:29:48.853] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/Polarice3/Goety/common/entities/ally/undead/PhantomServant$AttackPhase
+[19Jul2025 14:29:48.861] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ancient_Ancient_Remnant_Entity$AttackMode
+[19Jul2025 14:29:48.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Nameless_Sorcerer_Entity$SpellType
+[19Jul2025 14:29:48.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/The_Baby_Leviathan_Entity$AttackMode
+[19Jul2025 14:29:48.879] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Face
+[19Jul2025 14:29:48.880] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$TerrainType
+[19Jul2025 14:29:48.880] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Biome
+[19Jul2025 14:29:48.880] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Feature
+[19Jul2025 14:29:48.885] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/utils/MiscUtils$Festivity
+[19Jul2025 14:29:48.991] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting nl/enjarai/doabarrelroll/net/HandshakeServer$HandshakeState
+[19Jul2025 14:29:49.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gek074 joined the game
+[19Jul2025 14:29:49.008] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/RelativeMovement
+[19Jul2025 14:29:49.013] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilitySection$AbilitySectionType
+[19Jul2025 14:29:49.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/effects/geomancy/EntityGeomancyBase$GeomancyTier
+[19Jul2025 14:29:49.303] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/Polarice3/Goety/compat/patchouli/PatchouliLoaded
+[19Jul2025 14:29:49.329] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[19Jul2025 14:29:49.370] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[19Jul2025 14:29:49.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Gek074] Tip: You can hit the "F3" and "D" keys at the same time to clear all prior chat messages
+[19Jul2025 14:29:49.396] [Server thread/INFO] [Jade/]: Syncing config to Gek074 (f73523a7-87a5-3af8-99b9-49cd91fc6fd4)
+[19Jul2025 14:29:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gek074 has made the advancement [Ice and Fire]
+[19Jul2025 14:29:49.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gek074 has made the advancement [Wither Storm Delight]
+[19Jul2025 14:29:49.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[19Jul2025 14:29:49.971] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[19Jul2025 14:29:50.078] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/common/network/data/Side
+[19Jul2025 14:29:50.631] [Server thread/INFO] [do_a_barrel_roll/]: Client of Gek074 accepted server config.
+[19Jul2025 14:29:52.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19Jul2025 14:29:55.323] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ordana/immersive_weathering/network/SendCustomParticlesPacket$EventType
+[19Jul2025 14:30:03.496] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[19Jul2025 14:30:03.497] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[19Jul2025 14:30:03.502] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[19Jul2025 14:30:12.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5293ms or 105 ticks behind
+[19Jul2025 14:30:25.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gek074 lost connection: Disconnected
+[19Jul2025 14:30:25.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gek074 left the game
+[19Jul2025 14:30:25.082] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[19Jul2025 14:34:06.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gek074[/127.32.58.178:59887] logged in with entity id 1462 at (50.5, 65.0, -87.5)
+[19Jul2025 14:34:06.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gek074 joined the game
+[19Jul2025 14:34:06.613] [Server thread/INFO] [Jade/]: Syncing config to Gek074 (f73523a7-87a5-3af8-99b9-49cd91fc6fd4)
+[19Jul2025 14:34:10.918] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[19Jul2025 14:34:11.424] [Server thread/INFO] [do_a_barrel_roll/]: Client of Gek074 accepted server config.
+[19Jul2025 14:34:49.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gek074: Set own game mode to Creative Mode]
+[19Jul2025 14:34:56.117] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/RenderShape
+[19Jul2025 14:34:59.946] [pool-5-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:large/village_christmas], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:large/village_dark_forest]] from pos BlockPos{x=101, y=71, z=133}
+[19Jul2025 14:35:01.321] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[19Jul2025 14:35:01.321] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[19Jul2025 14:35:01.336] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[19Jul2025 14:35:01.337] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[19Jul2025 14:35:01.432] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[19Jul2025 14:35:03.986] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[19Jul2025 14:35:04.003] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[19Jul2025 14:35:07.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5425ms or 108 ticks behind
+[19Jul2025 14:35:07.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gek074 moved too quickly! 6.198851123253569,3.750000148850191,-7.526036595402951
+[19Jul2025 14:35:11.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gek074 moved too quickly! 9.83618211090159,-3.7499878840888528,-1.6860240547662873
+[19Jul2025 14:35:16.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gek074 moved too quickly! 1.9178414241185777,-10.554950590931568,-2.880030340373068
+[19Jul2025 14:35:22.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gek074 moved too quickly! -0.17147833398480827,-10.72812610848311,-1.5338597974355999
+[19Jul2025 14:35:22.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[19Jul2025 14:35:30.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gek074 moved too quickly! 0.6368374716236787,10.118336525662457,-0.14230131927146772
+[19Jul2025 14:35:31.137] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[19Jul2025 14:35:31.137] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[19Jul2025 14:35:31.137] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[19Jul2025 14:35:38.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gek074 moved too quickly! 5.277168882594438,4.344343808163444,-7.471723997884272
+[19Jul2025 14:35:42.207] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[19Jul2025 14:35:49.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27373ms or 547 ticks behind
+[19Jul2025 14:36:07.260] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu$Arcana
+[19Jul2025 14:36:10.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Jul2025 14:36:16.284] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[19Jul2025 14:36:16.384] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[19Jul2025 14:36:29.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4161ms or 83 ticks behind
+[19Jul2025 14:36:46.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
