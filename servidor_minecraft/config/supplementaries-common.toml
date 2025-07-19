@@ -200,8 +200,8 @@
 		#Time for a cannon to be able to fire again after it has been fired
 		#Range: 0 ~ 500
 		cooldown = 60
-		music_disc_heave_ho = true
 		cannonball = true
+		music_disc_heave_ho = true
 
 	[functional.present]
 		enabled = true
@@ -239,18 +239,18 @@
 	sconce = true
 	sconce_lever = true
 	pancake = true
+	netherite_door = true
+	netherite_trapdoor = true
 	checker_block = true
 	raked_gravel = true
 	feather_block = true
 	statue = true
 	doormat = true
 	flint_block = true
+	cabin_siding = true
 	candle_holder = true
 	fire_pit = true
 	wicker_fence = true
-	netherite_door = true
-	netherite_trapdoor = true
-	cabin_siding = true
 
 	[building.blackboard]
 		enabled = true
